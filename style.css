@@ -145,7 +145,8 @@ height: 8px;
     background-image: url(img/Bill\ Sitting\ using\ laptop\ 1.png);
     width: 509px;
     height: 763px;
-    margin-top: -50px;
+    position: absolute;
+    right: 153px;
 }
 .div6{
     margin-top: 43px;
@@ -409,7 +410,8 @@ color: #545454;
 
 }
 .div112{
-    margin-left: 100px;
+    right: 65px;
+    position: absolute;
     width: 738px;
     height: 511px;
     background-image: url(img/17.\ Recent\ Activities\ 1.png);
@@ -739,9 +741,9 @@ background-image: url(img/Cuboid\ 1.png);
 
 .elipse3{
     position: absolute;
-width: 497px;
+    width: 301px;
 height: 505px;
-left: 1160px;
+right: 0;
 top: 2370px;
 z-index: -1;
 background-image: url(img/Ellipse\ 31.png);
